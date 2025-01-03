@@ -9,7 +9,7 @@ const Topbar = () => {
                     <div className="col-lg-6 d-none d-lg-block">
                         <div className="d-inline-flex align-items-center h-100">
                             <NavLink className="text-body mr-3" to="">
-                                About
+                                About us
                             </NavLink>
                             <NavLink className="text-body mr-3" to="">
                                 Contact
